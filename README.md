@@ -1,3 +1,6 @@
+<p>Admin link: /public/admin</p>
+<p>mail: kbs@mail.com pass: 12345678</p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
